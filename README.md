@@ -14,7 +14,7 @@ Sistem ini merupakan solusi berbasis IoT (Internet of Things) yang dirancang unt
    * Mengukur temperatur udara di sekitar tanaman.
    * Data suhu dikirim ke mikrokontroler.
 2. **Sensor Kelembapan**
-   * Mengukur tingkat kelembapan udara atau tanah.
+   * Mengukur tingkat kelembapan udara dan tanah.
    * Informasi ini penting untuk menentukan kebutuhan air tanaman.
 3. **Sensor pH**
    * Mengukur tingkat keasaman tanah.
